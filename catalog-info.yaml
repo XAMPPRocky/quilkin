@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: quilkin
+  annotations:
+    github.com/project-slug: xampprocky/quilkin
+spec:
+  type: service
+  lifecycle: experimental
