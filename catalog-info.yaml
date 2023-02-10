@@ -4,6 +4,7 @@ metadata:
   name: quilkin
   annotations:
     github.com/project-slug: xampprocky/quilkin
+    backstage.io/techdocs-ref: url:https://googleforgames.github.io/quilkin/v0.5.0/book/
 spec:
   type: service
   lifecycle: experimental
